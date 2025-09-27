@@ -31,11 +31,13 @@
 ![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white)
 ![WPF](https://img.shields.io/badge/WPF-6A1577?logo=windows&logoColor=white)
 ![Blazor](https://img.shields.io/badge/Blazor-5C2D91?logo=blazor&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?logo=dotnet&logoColor=white)
 ![EF Core](https://img.shields.io/badge/EF%20Core-512BD4?logo=database&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white)
 ![OWASP](https://img.shields.io/badge/Security-OWASP-black?logo=owasp&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 
 ## Projets en vedette
 
