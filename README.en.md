@@ -2,6 +2,8 @@
 
 English | [Français](./README.fr.md)
 
+![Profile banner](./imgEng.jpeg)
+
 ## Core Skills
 
 ### Software Engineering
