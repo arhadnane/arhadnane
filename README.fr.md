@@ -2,6 +2,8 @@
 
 [English](./README.en.md) | Français
 
+![Profile banner](./imgEng.jpeg)
+
 ## Compétences clés
 
 ### Génie logiciel
