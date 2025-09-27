@@ -1,8 +1,8 @@
-# Adnane Arharbi — Ingénieur logiciel .NET | Cybersécurité | Tech Lead
+# Adnane Arharbi - Ingénieur logiciel .NET | Cybersécurité | Tech Lead
 
 [English](./README.en.md) | Français
 
-## 🧩 Compétences clés
+## Compétences clés
 
 ### Génie logiciel
 
@@ -25,7 +25,7 @@
 - Résolution de problèmes complexes, leadership, coordination
 - Agile (Scrum), gestion du changement, travail d'équipe
 
-## 🧪 Stack & badges
+## Stack & badges
 
 ![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white)
@@ -37,7 +37,7 @@
 ![OWASP](https://img.shields.io/badge/Security-OWASP-black?logo=owasp&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)
 
-## � Projets en vedette
+## Projets en vedette
 
 - SymptomChecker — Application WinForms C# pour suggérer des maladies à partir d’une liste de symptômes et d’un dataset JSON. [Code](https://github.com/arhadnane/SymptomChecker)
 - EducationalVulnerabilityScanner — Scanner pédagogique (console C#) qui simule des vulnérabilités et propose explications et correctifs. [Code](https://github.com/arhadnane/EducationalVulnerabilityScanner)
@@ -52,7 +52,7 @@
 - C2SimulationFramework — Simulation éducative d’un framework C2 pour la cybersécurité. [Code](https://github.com/arhadnane/C2SimulationFramework)
 - Advanced-Cellular-Automata-Simulator — Explorateur de multiples automates cellulaires (Python). [Code](https://github.com/arhadnane/Advanced-Cellular-Automata-Simulator)
 
-## �📊 Statistiques
+## Statistiques
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=arhadnane&theme=default)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arhadnane&layout=compact)
