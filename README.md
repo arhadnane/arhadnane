@@ -1,6 +1,6 @@
 # Adnane Arharbi - .NET Software Engineer | Cybersecurity
 
-English | [Français](./README.fr.md)
+English | [Français](./README.fr.md) | [العربية](./README.ar.md)
 
 ![Profile banner](./imgEng.jpeg)
 
