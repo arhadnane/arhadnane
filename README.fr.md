@@ -1,4 +1,4 @@
-# Adnane Arharbi - Ingénieur logiciel .NET | Cybersécurité | Tech Lead
+# Adnane Arharbi - Ingénieur logiciel .NET | Cybersécurité 
 
 [English](./README.en.md) | Français | [العربية](./README.ar.md)
 
