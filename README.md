@@ -4,29 +4,6 @@ English | [Français](./README.fr.md) | [العربية](./README.ar.md)
 
 ![Profile banner](./imgEng.jpeg)
 
-## Core Skills
-
-### Software Engineering
-
-- Architecture (patterns, MVC, DDD, microservices, UML)
-- C#, VB.NET, .NET/.NET Framework, ASP.NET MVC, Web & Desktop
-- T-SQL, SQL Server, ETL, SSRS
-- OOP, TDD, quality (SonarQube), observability (Dynatrace)
-- Git, GitHub, GitLab, Azure DevOps, TeamCity, Octopus Deploy
-- Tools: Jira, Confluence, ServiceNow, Workday, Visual Studio, VS Code
-- Python (tooling/automation)
-
-### Cybersecurity
-
-- Risk analysis, security audits, vulnerability monitoring (SIEM)
-- Remediation, compliance, OWASP
-- Tools: Security Onion, ELK, Nmap, Wireshark, penetration testing
-
-### General
-
-- Complex problem solving, leadership, coordination
-- Agile (Scrum), change management, teamwork
-
 ## Stack & Badges
 
 ![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white)
