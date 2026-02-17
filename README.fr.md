@@ -4,29 +4,6 @@
 
 ![Profile banner](./imgEng.jpeg)
 
-## Compétences clés
-
-### Génie logiciel
-
-- Architecture (patterns, MVC, DDD, microservices, UML)
-- C#, VB.NET, .NET/.NET Framework, ASP.NET MVC, Web & Desktop
-- T-SQL, SQL Server, ETL, SSRS
-- POO, TDD, qualité (SonarQube), observabilité (Dynatrace)
-- Git, GitHub, GitLab, Azure DevOps, TeamCity, Octopus
-- Outils: Jira, Confluence, ServiceNow, Workday, Visual Studio, VS Code
-- Python (outillage)
-
-### Cybersécurité
-
-- Analyse de risque, audits, vulnérabilités (SIEM)
-- Mesures correctives, conformité, OWASP
-- Outils: Security Onion, ELK, Nmap, Wireshark, pentest
-
-### Compétences générales
-
-- Résolution de problèmes complexes, leadership, coordination
-- Agile (Scrum), gestion du changement, travail d'équipe
-
 ## Stack & badges
 
 ![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white)
