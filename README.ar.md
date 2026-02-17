@@ -4,28 +4,6 @@
 
 ![صورة الملف الشخصي](./imgEng.jpeg)
 
-## المهارات الأساسية
-
-### هندسة البرمجيات
-
-- الهندسة المعمارية (الأنماط، MVC، DDD، الخدمات المصغرة، UML)
-- ‎C#‎، ‎VB.NET‎، ‎.NET / .NET Framework‎، ‎ASP.NET MVC‎، تطبيقات الويب وسطح المكتب
-- ‎T‑SQL‎، ‎SQL Server‎، ‎ETL‎، ‎SSRS‎
-- البرمجة الكائنية، ‎TDD‎، الجودة (SonarQube)، الملاحظة (Dynatrace)
-- Git، GitHub، GitLab، Azure DevOps، TeamCity، Octopus Deploy
-- أدوات: Jira، Confluence، ServiceNow، Workday، Visual Studio، VS Code
-- Python (الأدوات/الأتمتة)
-
-### الأمن السيبراني
-
-- تحليل المخاطر، تدقيقات الأمان، مراقبة الثغرات (SIEM)
-- المعالجة والامتثال، OWASP
-- أدوات: Security Onion، ELK، Nmap، Wireshark، اختبار الاختراق
-
-### عام
-
-- حل المشكلات المعقدة، القيادة، التنسيق
-- أجيل (Scrum)، إدارة التغيير، العمل ضمن فريق
 
 ## التقنيات والشارات
 
