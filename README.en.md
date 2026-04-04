@@ -61,5 +61,3 @@ English | [Français](./README.fr.md) | [العربية](./README.ar.md)
 ![GitHub Streak](https://streak-stats.demolab.com?user=arhadnane&theme=default)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arhadnane&layout=compact)
 ![Profile Stats](https://github-readme-stats.vercel.app/api?username=arhadnane&show_icons=true)
-
-
