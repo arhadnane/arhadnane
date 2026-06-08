@@ -20,6 +20,7 @@ English | [Français](./README.fr.md) | [العربية](./README.ar.md)
 
 ## Featured projects
 
+- Blood Analysis Project.[Code](https://github.com/arhadnane/BloodAnalysis)
 - SymptomChecker — A C# WinForms app suggesting possible conditions from a curated symptom list and JSON dataset. [Code](https://github.com/arhadnane/SymptomChecker)
 - EducationalVulnerabilityScanner — A tiny C# console scanner that simulates vulnerabilities with why/how/fix guidance. [Code](https://github.com/arhadnane/EducationalVulnerabilityScanner)
 - Smart-Network-Traffic-Analyzer — Real-time network traffic analyzer with AI/agent-powered insights. [Code](https://github.com/arhadnane/Smart-Network-Traffic-Analyzer)
@@ -34,5 +35,3 @@ English | [Français](./README.fr.md) | [العربية](./README.ar.md)
 ## Stats
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=arhadnane&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arhadnane&layout=compact)
-![Profile Stats](https://github-readme-stats.vercel.app/api?username=arhadnane&show_icons=true)
