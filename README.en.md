@@ -45,7 +45,6 @@ English | [Français](./README.fr.md) | [العربية](./README.ar.md)
 
 - SymptomChecker — A C# WinForms app suggesting possible conditions from a curated symptom list and JSON dataset. [Code](https://github.com/arhadnane/SymptomChecker)
 - EducationalVulnerabilityScanner — A tiny C# console scanner that simulates vulnerabilities with why/how/fix guidance. [Code](https://github.com/arhadnane/EducationalVulnerabilityScanner)
-- BruteForceSimulator — .NET 8 brute-force attack simulator with probabilistic visualization and reporting. [Code](https://github.com/arhadnane/BruteForceSimulator)
 - Smart-Network-Traffic-Analyzer — Real-time network traffic analyzer with AI/agent-powered insights. [Code](https://github.com/arhadnane/Smart-Network-Traffic-Analyzer)
 - SwarmID — Anomaly-based intrusion detection system using swarm intelligence. [Code](https://github.com/arhadnane/SwarmID-Intrusion-Detection-System)
 - real-time-screen-voice-intelligence — Real-time screen capture + voice transcription + AI analysis for contextual assistance. [Code](https://github.com/arhadnane/real-time-screen-voice-intelligence)
@@ -53,7 +52,6 @@ English | [Français](./README.fr.md) | [العربية](./README.ar.md)
 - Binary-analysis-tool — C# binary analysis toolkit (convert, disassemble) with CLI. [Code](https://github.com/arhadnane/Binary-analysis-tool)
 - Nuclear-War-Simulation — Educational web app simulating the effects of nuclear weapons on urban areas. [Code](https://github.com/arhadnane/Nuclear-War-Simulation)
 - Epidemic-Modeling-Simulation-Tool — .NET 8 Blazor Server SIR/SEIR simulator with real-time charts and scenario comparison. [Code](https://github.com/arhadnane/Epidemic-Modeling-Simulation-Tool)
-- C2SimulationFramework — Educational command-and-control attack framework simulator. [Code](https://github.com/arhadnane/C2SimulationFramework)
 - Advanced-Cellular-Automata-Simulator — Explore various cellular automata (Python). [Code](https://github.com/arhadnane/Advanced-Cellular-Automata-Simulator)
 
 ## Stats
