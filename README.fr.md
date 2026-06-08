@@ -20,6 +20,7 @@
 
 ## Projets en vedette
 
+- Blood Analysis Project.[Code](https://github.com/arhadnane/BloodAnalysis)
 - SymptomChecker — Application WinForms C# pour suggérer des maladies à partir d’une liste de symptômes et d’un dataset JSON. [Code](https://github.com/arhadnane/SymptomChecker)
 - EducationalVulnerabilityScanner — Scanner pédagogique (console C#) qui simule des vulnérabilités et propose explications et correctifs. [Code](https://github.com/arhadnane/EducationalVulnerabilityScanner)
 - Smart-Network-Traffic-Analyzer — Analyseur temps réel du trafic réseau avec IA/agents. [Code](https://github.com/arhadnane/Smart-Network-Traffic-Analyzer)
