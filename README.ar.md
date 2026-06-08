@@ -23,7 +23,6 @@
 
 - SymptomChecker — تطبيق ‎WinForms‎ بلغة ‎C#‎ يقترح الحالات المحتملة بناءً على قائمة أعراض وبيانات JSON. [الكود](https://github.com/arhadnane/SymptomChecker)
 - EducationalVulnerabilityScanner — أداة سطر أوامر تعليمية (‎C#‎) تحاكي الثغرات وتوضح الأسباب وطريقة الإصلاح. [الكود](https://github.com/arhadnane/EducationalVulnerabilityScanner)
-- BruteForceSimulator — محاكي هجمات التخمين (‎.NET 8‎) مع تصور احتمالي وتقارير. [الكود](https://github.com/arhadnane/BruteForceSimulator)
 - Smart-Network-Traffic-Analyzer — محلل لحركة الشبكة في الوقت الحقيقي مدعوم بالذكاء الاصطناعي/العوامل. [الكود](https://github.com/arhadnane/Smart-Network-Traffic-Analyzer)
 - SwarmID — نظام كشف التطفل يعتمد على ذكاء السرب. [الكود](https://github.com/arhadnane/SwarmID-Intrusion-Detection-System)
 - real-time-screen-voice-intelligence — التقاط شاشة + نسخ صوتي + تحليل ذكاء اصطناعي للدعم السياقي. [الكود](https://github.com/arhadnane/real-time-screen-voice-intelligence)
@@ -31,7 +30,6 @@
 - Binary-analysis-tool — مجموعة أدوات لتحليل الثنائيات (تحويل، تفكيك) بلغة ‎C#‎ عبر واجهة سطر الأوامر. [الكود](https://github.com/arhadnane/Binary-analysis-tool)
 - Nuclear-War-Simulation — تطبيق ويب تعليمي يحاكي آثار الأسلحة النووية على المناطق الحضرية. [الكود](https://github.com/arhadnane/Nuclear-War-Simulation)
 - Epidemic-Modeling-Simulation-Tool — محاكاة ‎SIR/SEIR‎ (‎Blazor Server .NET 8‎) مع رسوم بيانية فورية ومقارنة السيناريوهات. [الكود](https://github.com/arhadnane/Epidemic-Modeling-Simulation-Tool)
-- C2SimulationFramework — محاكاة تعليمية لإطار قيادة وتحكم (C2). [الكود](https://github.com/arhadnane/C2SimulationFramework)
 - Advanced-Cellular-Automata-Simulator — استكشاف أنواع متعددة من الخلايا الذاتية (‎Python‎). [الكود](https://github.com/arhadnane/Advanced-Cellular-Automata-Simulator)
 
 ## الإحصائيات
